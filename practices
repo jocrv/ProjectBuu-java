@@ -1,0 +1,68 @@
+variables,
+concets, creation, type of data, arithmetic operations, convertions (casting)
+programming logical intellij 
+
+
+Problem Explanation
+A popular programming norm is to use Camel case when creating variable names. Notice the first word is lowercase and every following word is uppercase. Here are some examples:
+
+var camelCase;
+var someNumber;
+var theBestVariableEver;
+var weWillStoreNumbersInThisVariable;
+
+-------
+
+variables: the space in computer where you reserve values. 4 types: instance (object), class(class), local(inside the methods), parameters (signature of methods)
+object oriented, 
+main method, to dispareted the programming
+definition standard:
+<?visibility?> <?modificated?> typ of name <?=initialvalue?>; 
+V: "public", "protected" and "private"
+M: "static" and "final"  (the value doesnt change)
+T: type of data 
+N: name of are given to variable
+VI: a initial value, if you desire 
+
+created:
+conventions and rules:
+doesnt need to start with number; 
+so allow "$" and "_" have to be avoid; 
+is case-sensitive;
+no spaces 
+doesnt need to be reserved to java:
+abstract continue for new switch assert default goto package synchedboolean do if private this break double case implements throw protected public while super
+examples: 
+int i; 
+int I; 
+int 1a; (uncorrect)
+int_1a;
+int $aq; 
+int I = 10; 
+int final j= 10; 
+int asrn24678md; 
+int asrn246 78md; (uncorrect)
+int asrn2$4678_md = 10; 
+int asrn2$46%78_md = 10; (uncorrect)
+
+
+all start the variable with minimun letter; 
+expressive names;
+notation Camel
+if the constant (final) capital letter and spaces by "_"; 
+
+
+examples:
+int quantityProduct; 
+int QuantityProduct; (uncorrect)
+int final NUMBER_INITIATIVES = 5; (standard notation)
+int final numberInitiatives = 5; (uncorrect)
+int NUMBER_INITIATIVES = 5; (uncorrect)
+INT qtdProd; (uncorrect)
+int i; 
+
+good practice, 
+
+create a example with intllij and the variable usable: 
+
+
